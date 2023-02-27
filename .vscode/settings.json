@@ -1,0 +1,9 @@
+{
+    "editor.accessibilitySupport": "auto",
+    "editor.columnSelection": false,
+    "editor.comments.insertSpace": false,
+    "files.autoSave": "afterDelay",
+    "typescript.tsserver.useSyntaxServer": "auto",
+    "editor.copyWithSyntaxHighlighting": true,
+    "editor.hover.enabled": false
+}
