@@ -20,7 +20,7 @@ Community Group based chat app in Flutter and Firebase with Cloudfirestore, Fire
 ## App UI
 
 ### Register
-<img src="http://techyvishwajeet.com/wp-content/uploads/2023/02/register.jpg" height="300" width="900" alt="Register"><br>
+<img src="http://techyvishwajeet.com/wp-content/uploads/2023/02/register.jpg" height="900" width="300" alt="Register"><br>
 ### Login
 ![App UI](http://techyvishwajeet.com/wp-content/uploads/2023/02/login.jpg) <br>
 ### Search
