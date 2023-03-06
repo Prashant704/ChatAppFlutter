@@ -11,7 +11,7 @@ Community Group based chat app in Flutter and Firebase with Cloudfirestore, Fire
 7. Check own Profile Details
 8. Know Group Details 
 
-## [Watch it on YouTube](https://youtube.com/)
+## [Watch it on YouTube](https://youtube.com/shorts/CAHczW0Oh6s?feature=share)
  
  ## SETTING IT UP
  1. Add firbease to this project and do check the google-services.json and GoogleServices-Info.plist file
